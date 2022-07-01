@@ -36,7 +36,7 @@ The following need to be done at least once. They do not need to be repeated for
      % sudo make install 
 
      % cd /usr/src/ 
-     % sudo wget https://www.imagemagick.org/download/ImageMagick.tar.gz 
+     % sudo wget https://imagemagick.org/archive/ImageMagick.tar.gz
      % sudo tar xf ImageMagick.tar.gz 
 
      % cd ImageMagick-7*
